@@ -1,0 +1,343 @@
+{
+ "v": 5,
+ "updatedAt": 1791234549028,
+ "tab": "settings",
+ "onboarded": true,
+ "settings": {
+  "lang": "ar",
+  "teacherG": "f",
+  "studentG": "f",
+  "title": "تحدي المستويات",
+  "school": "الثانوية الثمانون",
+  "teacher": "حورية صلاح الحربي",
+  "qTime": 60,
+  "golden": true,
+  "sound": true,
+  "theme": "auto",
+  "pickStyle": "card",
+  "levels": [
+   {
+    "id": "b",
+    "name": "مبتدئ",
+    "desc": "سؤال مباشر وواضح",
+    "pts": 10,
+    "icon": "🌱"
+   },
+   {
+    "id": "m",
+    "name": "متوسط",
+    "desc": "سؤال تطبيقي",
+    "pts": 20,
+    "icon": "🚀"
+   },
+   {
+    "id": "a",
+    "name": "متقدم",
+    "desc": "تفكير ناقد",
+    "pts": 30,
+    "icon": "🧠"
+   }
+  ]
+ },
+ "subjects": [
+  {
+   "id": "9y5k6gly",
+   "name": "القرآن القريم وتفسيره",
+   "icon": "📘",
+   "units": [
+    {
+     "id": "xpuy1dd6",
+     "name": "تفسير سورة يوسف  من 46 -57"
+    }
+   ]
+  }
+ ],
+ "classes": [
+  {
+   "id": "c1",
+   "name": "الأول ثانوي  2",
+   "students": [
+    {
+     "id": "p1ihjnvz",
+     "name": "نورة",
+     "points": 0
+    },
+    {
+     "id": "up63ftvu",
+     "name": "سارة",
+     "points": 0
+    },
+    {
+     "id": "8hulowvh",
+     "name": "ريم",
+     "points": 0
+    },
+    {
+     "id": "h3t2jt7i",
+     "name": "لمى",
+     "points": 0
+    },
+    {
+     "id": "ayoz7la9",
+     "name": "جود",
+     "points": 0
+    },
+    {
+     "id": "xnhjzqi2",
+     "name": "هيا",
+     "points": 0
+    },
+    {
+     "id": "i9xpjegz",
+     "name": "شهد",
+     "points": 0
+    },
+    {
+     "id": "x8wyoul4",
+     "name": "رهف",
+     "points": 0
+    },
+    {
+     "id": "htm4wjzr",
+     "name": "العنود",
+     "points": 0
+    },
+    {
+     "id": "y4yy69a5",
+     "name": "غلا",
+     "points": 0
+    },
+    {
+     "id": "n9bpx7vj",
+     "name": "ليان",
+     "points": 0
+    },
+    {
+     "id": "xzmbmebj",
+     "name": "دانة",
+     "points": 0
+    },
+    {
+     "id": "h5jk2xl9",
+     "name": "اسيل كعبي",
+     "points": 0
+    },
+    {
+     "id": "yt3xjvpx",
+     "name": "ايلأ العيسى",
+     "points": 0
+    },
+    {
+     "id": "hcsbzsn8",
+     "name": "جواهر المعبدي",
+     "points": 0
+    },
+    {
+     "id": "b9bb9nci",
+     "name": "جوري التركي",
+     "points": 0
+    },
+    {
+     "id": "gc2guo6u",
+     "name": "دالية كعبي",
+     "points": 0
+    },
+    {
+     "id": "xutm2upz",
+     "name": "دانة الغامدي",
+     "points": 0
+    },
+    {
+     "id": "2t7f8nnc",
+     "name": "دانية الحربي",
+     "points": 0
+    },
+    {
+     "id": "l2sih66o",
+     "name": "دلال العديني",
+     "points": 0
+    },
+    {
+     "id": "0381rgpf",
+     "name": "راما القرني",
+     "points": 0
+    },
+    {
+     "id": "rrq994g0",
+     "name": "رحاب نور الإسلام",
+     "points": 0
+    },
+    {
+     "id": "0t09t30y",
+     "name": "رزان هزازي",
+     "points": 0
+    },
+    {
+     "id": "lmi3qt1y",
+     "name": "رواف المعبدي",
+     "points": 0
+    },
+    {
+     "id": "qcpq08fs",
+     "name": "روان السلمي",
+     "points": 0
+    },
+    {
+     "id": "6i49ixli",
+     "name": "ريتاج التركي",
+     "points": 0
+    },
+    {
+     "id": "3qg9n5h1",
+     "name": "ريتال الصعب",
+     "points": 0
+    },
+    {
+     "id": "ejh35r21",
+     "name": "سغانا التركي",
+     "points": 0
+    },
+    {
+     "id": "t38dm71a",
+     "name": "شهد المالكي",
+     "points": 0
+    },
+    {
+     "id": "qtvw61vd",
+     "name": "طيبة خالد",
+     "points": 0
+    },
+    {
+     "id": "749uj47i",
+     "name": "غرور كعبي",
+     "points": 0
+    },
+    {
+     "id": "iuf6i7je",
+     "name": "ليلى هلال",
+     "points": 0
+    },
+    {
+     "id": "mba10dyq",
+     "name": "مريم الشمراني",
+     "points": 0
+    },
+    {
+     "id": "eqnqczce",
+     "name": "منار الشهري",
+     "points": 0
+    },
+    {
+     "id": "f9r6v5oe",
+     "name": "ندى كعبي",
+     "points": 0
+    },
+    {
+     "id": "cuh6n4yh",
+     "name": "نورة الدوسري",
+     "points": 0
+    },
+    {
+     "id": "ao1hxlwi",
+     "name": "وعد هزازي",
+     "points": 0
+    },
+    {
+     "id": "k0xyp460",
+     "name": "وهيبة  حسين",
+     "points": 0
+    }
+   ],
+   "teams": [
+    {
+     "id": "iz8i1lub",
+     "name": "النجمات",
+     "points": 0
+    },
+    {
+     "id": "h241ytka",
+     "name": "الأقمار",
+     "points": 0
+    },
+    {
+     "id": "n4qd6nkq",
+     "name": "المبدعات",
+     "points": 0
+    },
+    {
+     "id": "pia4h893",
+     "name": "المتألقات",
+     "points": 0
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dqp5gzxh",
+   "subjectId": "9y5k6gly",
+   "unitId": "xpuy1dd6",
+   "level": "b",
+   "type": "mcq",
+   "text": "معنى ما تحته خط في قوله تعالى :\n(إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ )",
+   "options": [
+    "تدخرون",
+    "تأكلون",
+    "تتصدقون"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": "wehckw8m",
+   "subjectId": "9y5k6gly",
+   "unitId": "xpuy1dd6",
+   "level": "m",
+   "type": "mcq",
+   "text": "ما الذي يُستنتج من قوله تعالى: ﴿وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ﴾؟",
+   "options": [
+    "ثواب الآخرة يتحقق بالإيمان دون الحاجة إلى التقوى.",
+    "المكانة في الدنيا دليل على استحقاق ثواب الآخرة.",
+    "الإيمان والتقوى سبب لنيل ثواب الآخرة الأفضل من متاع الدنيا."
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": "syad32fr",
+   "subjectId": "9y5k6gly",
+   "unitId": "xpuy1dd6",
+   "level": "a",
+   "type": "mcq",
+   "text": "قال يوسف عليه السلام: ﴿اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ﴾. أيُّ موقف يُعدّ تطبيقًا صحيحًا لذكر الإنسان مؤهلاته كما يُستنتج من الآية؟",
+   "options": [
+    "تُبالغ طالبة في وصف قدراتها؛ لتضمن اختيارها لقيادة الفريق",
+    "تذكر طالبة مهاراتها المناسبة لمهمة؛ لتُسهم في إنجازها بأمانة وكفاءة.",
+    "تذكر طالبة إنجازاتها؛ لتُثبت أنها أفضل من زميلاتها."
+   ],
+   "answer": 1,
+   "explanation": ""
+  }
+ ],
+ "used": [
+  "syad32fr"
+ ],
+ "history": [
+  {
+   "t": 1791234150401,
+   "classId": "c1",
+   "subjectId": "9y5k6gly",
+   "level": "a",
+   "ok": false,
+   "pts": 0,
+   "who": "xnhjzqi2",
+   "kind": "student"
+  }
+ ],
+ "cur": {
+  "classId": "c1",
+  "subjectId": "9y5k6gly",
+  "unitId": "all",
+  "mode": "solo"
+ }
+}
